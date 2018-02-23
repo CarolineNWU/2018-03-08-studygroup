@@ -1,18 +1,18 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # what kind of Carpentry ("Data Carpentry")
-venue: "FIXME"        # brief name of host site without address (e.g., "North-West University")
-address: "FIXME"      # full street address of workshop (e.g., "Departtment of Microbiology board room")
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" ("za")
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" ("en")
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "-25.855978, 25.640310")
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "March 08, 201")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "14:00 - 16:00")
-startdate: FIXME      # machine-readable start date for the workshop 2018-03-08
-enddate: FIXME        # machine-readable end date for the workshop 2018-03-08
-instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like [" Caroline F Ajilogba", "Rhoda Aremu", "Mamsi Khantsi"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Adenike Amoo", "Ayansina Ayangbenro"]
-email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["carolfadeke@gmail.com"]
+carpentry: "Data Carpentry"    # what kind of Carpentry ("Data Carpentry")
+venue: "North-West University"        # brief name of host site without address (e.g., "North-West University")
+address: "Department of Microbiology board room"      # full street address of workshop (e.g., "Departtment of Microbiology board room")
+country: "za"      # lowercase two-letter ISO country code such as "fr" ("za")
+language: "en"     # lowercase two-letter ISO language code such as "fr" ("en")
+latlng: "-25.855978, 25.640310"       # decimal latitude and longitude of workshop venue (e.g., "-25.855978, 25.640310")
+humandate: "March 08, 2018"    # human-readable dates for the workshop (e.g., "March 08, 201")
+humantime: "14:00 - 16:00"    # human-readable times for the workshop (e.g., "14:00 - 16:00")
+startdate: 2018-03-08     # machine-readable start date for the workshop 2018-03-08
+enddate: 2018-03-08        # machine-readable end date for the workshop 2018-03-08
+instructor: ["Caroline F Ajilogba", "Rhoda Aremu", "Mamsi Khantsi"] # boxed, comma-separated list of instructors' names as strings, like [" Caroline F Ajilogba", "Rhoda Aremu", "Mamsi Khantsi"]
+helper: ["Adenike Amoo", "Ayansina Ayangbenro"]     # boxed, comma-separated list of helpers' names, like ["Adenike Amoo", "Ayansina Ayangbenro"]
+email: ["carolfadeke@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["carolfadeke@gmail.com"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
