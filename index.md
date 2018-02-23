@@ -43,11 +43,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>T</h4>
-
 <h2 id="general">General Information</h2>
 
-{% comment %}
   INTRODUCTION
 
   Edit the general explanatory paragraph below if you want to change
